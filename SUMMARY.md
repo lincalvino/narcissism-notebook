@@ -16,9 +16,10 @@
 * [二、鏡映](yi-zi-de-xin-li-yi-han/er-ying.md)
 * [三、理想化](yi-zi-de-xin-li-yi-han/san-li-xiang-hua.md)
 * [天賦](yi-zi-de-xin-li-yi-han/tian.md)
+* [匱乏](yi-zi-de-xin-li-yi-han/fa.md)
 
 ## 輯二、自戀的個別樣貌
 
 * [充氣娃娃男](er-zi-de-mao/5.2-chong-qi-wa-wa-nan.md)
-* [Untitled](er-zi-de-mao/untitled.md)
+* [北捷隨機殺人事件的心理剖析](er-zi-de-mao/untitled.md)
 
