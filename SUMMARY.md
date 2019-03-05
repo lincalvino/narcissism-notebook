@@ -22,4 +22,10 @@
 
 * [充氣娃娃男](er-zi-de-mao/5.2-chong-qi-wa-wa-nan.md)
 * [北捷隨機殺人事件的心理剖析](er-zi-de-mao/untitled.md)
+* [謀殺童年](er-zi-de-mao/tong-nian.md)
+
+## 輯三、自戀的社會圖像
+
+* [宅世代](zi-de-she-xiang/zhai-shi-dai.md)
+* [親密關係暴力（一） 解剖愛情](zi-de-she-xiang/mi-bao-li-yi-jie-pou-qing.md)
 
