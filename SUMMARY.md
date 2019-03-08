@@ -28,4 +28,5 @@
 
 * [宅世代](zi-de-she-xiang/zhai-shi-dai.md)
 * [親密關係暴力（一） 解剖愛情](zi-de-she-xiang/mi-bao-li-yi-jie-pou-qing.md)
+* [親密關係暴力（二）愛情的賭徒](zi-de-she-xiang/mi-bao-li-er-qing-de-tu.md)
 
