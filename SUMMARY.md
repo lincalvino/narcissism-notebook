@@ -1,10 +1,20 @@
 # Table of contents
 
-* [關於\[自戀筆記\]](README.md)
-* [自戀筆記](1-zi-lian-shu-feng-mian.md)
-* [自序](2-zi-xu.md)
+* [自戀筆記本](README.md)
+* [關於我，與書](1-zi-lian-shu-feng-mian.md)
 
-## 輯一、自戀的心理意涵
+## 輯一、自戀患者檔案室
+
+* [宅世代](er-zi-de-mao/zhai-shi-dai.md)
+* [充氣娃娃男](er-zi-de-mao/5.2-chong-qi-wa-wa-nan.md)
+* [北捷隨機殺人事件的心理剖析](er-zi-de-mao/untitled.md)
+* [謀殺童年](er-zi-de-mao/tong-nian.md)
+* [親密關係暴力（一） 解剖愛情](er-zi-de-mao/mi-bao-li-yi-jie-pou-qing.md)
+* [親密關係暴力（二）愛情的賭徒](er-zi-de-mao/mi-bao-li-er-qing-de-tu.md)
+* [親密關係暴力（三）打是情，罵是愛](er-zi-de-mao/mi-bao-li-san-da-shi-qing-shi.md)
+* [親密關係暴力（四）情人看刀](er-zi-de-mao/mi-bao-li-si-qing-ren-kan-dao.md)
+
+## 輯二、自戀研究室
 
 * [為何要討論「自戀」？](yi-zi-de-xin-li-yi-han/4.1-wei-he-yao-tao-lun-zi-lian.md)
 * [「自戀」是什麼？](yi-zi-de-xin-li-yi-han/4.2-zi-lian-shi-shi-mo.md)
@@ -17,18 +27,4 @@
 * [三、理想化](yi-zi-de-xin-li-yi-han/san-li-xiang-hua.md)
 * [天賦](yi-zi-de-xin-li-yi-han/tian.md)
 * [匱乏](yi-zi-de-xin-li-yi-han/fa.md)
-
-## 輯二、自戀的個別樣貌
-
-* [充氣娃娃男](er-zi-de-mao/5.2-chong-qi-wa-wa-nan.md)
-* [北捷隨機殺人事件的心理剖析](er-zi-de-mao/untitled.md)
-* [謀殺童年](er-zi-de-mao/tong-nian.md)
-
-## 輯三、自戀的社會圖像
-
-* [宅世代](zi-de-she-xiang/zhai-shi-dai.md)
-* [親密關係暴力（一） 解剖愛情](zi-de-she-xiang/mi-bao-li-yi-jie-pou-qing.md)
-* [親密關係暴力（二）愛情的賭徒](zi-de-she-xiang/mi-bao-li-er-qing-de-tu.md)
-* [親密關係暴力（三）打是情，罵是愛](zi-de-she-xiang/mi-bao-li-san-da-shi-qing-shi.md)
-* [親密關係暴力（四）情人看刀](zi-de-she-xiang/mi-bao-li-si-qing-ren-kan-dao.md)
 
