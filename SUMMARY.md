@@ -3,7 +3,7 @@
 * [自戀筆記本](README.md)
 * [關於我，與書](1-zi-lian-shu-feng-mian.md)
 
-## 輯一、自戀患者檔案室
+## 輯一、自戀檔案室
 
 * [宅世代](er-zi-de-mao/zhai-shi-dai.md)
 * [充氣娃娃男](er-zi-de-mao/5.2-chong-qi-wa-wa-nan.md)
