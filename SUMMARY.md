@@ -6,6 +6,7 @@
 ## 輯一、自戀檔案室
 
 * [霸凌的心理剖析（一）概念篇](er-zi-de-mao/ba-ling-de-xin-li-pou-xi-yi-gai-nian-pian.md)
+* [霸凌的心理剖析（二）加害篇](er-zi-de-mao/ba-ling-de-xin-li-pou-xi-er-jia-hai-pian.md)
 * [宅世代](er-zi-de-mao/zhai-shi-dai.md)
 * [充氣娃娃男](er-zi-de-mao/5.2-chong-qi-wa-wa-nan.md)
 * [北捷隨機殺人事件的心理剖析](er-zi-de-mao/untitled.md)
