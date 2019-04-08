@@ -1,6 +1,6 @@
 # Table of contents
 
-* [自戀筆記本](README.md)
+* [自戀筆記](README.md)
 * [關於我，與書](1-zi-lian-shu-feng-mian.md)
 
 ## 輯一、自戀檔案室
