@@ -5,8 +5,8 @@
 
 ## 輯一、自戀檔案室
 
-* [我們與惡的距離--Psychopathy=邪惡基因?](er-zi-de-mao/wo-de-ju-psychopathy-xie-ji-yin.md)
 * [我們與惡的距離？](er-zi-de-mao/wo-de-ju.md)
+* [我們與惡的距離--Psychopathy=邪惡基因?](er-zi-de-mao/wo-de-ju-psychopathy-xie-ji-yin.md)
 * [霸凌的心理剖析（一）概念篇](er-zi-de-mao/ba-ling-de-xin-li-pou-xi-yi-gai-nian-pian.md)
 * [霸凌的心理剖析（二）加害篇](er-zi-de-mao/ba-ling-de-xin-li-pou-xi-er-jia-hai-pian.md)
 * [宅世代](er-zi-de-mao/zhai-shi-dai.md)
