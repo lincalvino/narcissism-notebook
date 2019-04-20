@@ -5,15 +5,15 @@
 
 ## 輯一、自戀檔案室
 
+* [充氣娃娃男](er-zi-de-mao/5.2-chong-qi-wa-wa-nan.md)
+* [宅世代](er-zi-de-mao/zhai-shi-dai.md)
+* [謀殺童年](er-zi-de-mao/tong-nian.md)
+* [北捷隨機殺人事件的心理剖析](er-zi-de-mao/untitled.md)
 * [我們與惡的距離？](er-zi-de-mao/wo-de-ju.md)
 * [我們與惡的距離--Psychopathy=邪惡基因?](er-zi-de-mao/wo-de-ju-psychopathy-xie-ji-yin.md)
 * [霸凌的心理剖析（一）概念篇](er-zi-de-mao/ba-ling-de-xin-li-pou-xi-yi-gai-nian-pian.md)
 * [霸凌的心理剖析（二）加害篇](er-zi-de-mao/ba-ling-de-xin-li-pou-xi-er-jia-hai-pian.md)
 * [霸凌的心理剖析（三）受害篇](er-zi-de-mao/ba-ling-de-xin-li-pou-xi-san-shou-hai-pian.md)
-* [宅世代](er-zi-de-mao/zhai-shi-dai.md)
-* [充氣娃娃男](er-zi-de-mao/5.2-chong-qi-wa-wa-nan.md)
-* [北捷隨機殺人事件的心理剖析](er-zi-de-mao/untitled.md)
-* [謀殺童年](er-zi-de-mao/tong-nian.md)
 * [親密關係暴力（一） 解剖愛情](er-zi-de-mao/mi-bao-li-yi-jie-pou-qing.md)
 * [親密關係暴力（二）愛情的賭徒](er-zi-de-mao/mi-bao-li-er-qing-de-tu.md)
 * [親密關係暴力（三）打是情，罵是愛](er-zi-de-mao/mi-bao-li-san-da-shi-qing-shi.md)
