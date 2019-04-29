@@ -5,7 +5,7 @@
 
 ## 輯一、自戀檔案室
 
-* [充氣娃娃男](er-zi-de-mao/5.2-chong-qi-wa-wa-nan.md)
+* [充氣娃娃男--關於性癖與戀童](er-zi-de-mao/5.2-chong-qi-wa-wa-nan.md)
 * [宅世代](er-zi-de-mao/zhai-shi-dai.md)
 * [謀殺童年](er-zi-de-mao/tong-nian.md)
 * [北捷隨機殺人事件的心理剖析](er-zi-de-mao/untitled.md)
