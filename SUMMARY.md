@@ -3,6 +3,10 @@
 * [自戀筆記](README.md)
 * [關於我，與書](1-zi-lian-shu-feng-mian.md)
 
+## 輯三、自戀工作室
+
+* [給孩子三年，他給你一輩子](zi-gong-zuo-shi/hai-zi-san-nian-ta-ni-yi-zi.md)
+
 ## 輯一、自戀檔案室
 
 * [充氣娃娃男--關於性癖與戀童](er-zi-de-mao/5.2-chong-qi-wa-wa-nan.md)
