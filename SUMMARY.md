@@ -5,7 +5,7 @@
 
 ## 輯三、自戀工作室
 
-* [給孩子永遠的同伴--手足](3-narcisissm-work/hai-zi-yong-de-tong-ban-shou-zu.md)
+* [給孩子永遠的同伴--手足](3-narcisissm-work/forever-siblings.md)
 * [給孩子三年，他給你一輩子](3-narcisissm-work/3-years-for-children.md)
 
 ## 輯一、自戀檔案室
