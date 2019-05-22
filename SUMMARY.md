@@ -5,7 +5,7 @@
 
 ## 輯三、自戀工作室
 
-* [&lt;自戀工作室&gt;別把孩子的時間填滿](3-narcisissm-work/zi-gong-zuo-shi-ba-hai-zi-de-tian.md)
+* [別把孩子的時間填滿](3-narcisissm-work/zi-gong-zuo-shi-ba-hai-zi-de-tian.md)
 * [給孩子永遠的同伴--手足](3-narcisissm-work/forever-siblings.md)
 * [給孩子三年，他給你一輩子](3-narcisissm-work/first-3-years-of-life.md)
 
