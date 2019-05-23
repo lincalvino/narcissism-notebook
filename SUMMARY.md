@@ -5,14 +5,15 @@
 
 ## 輯三、自戀工作室
 
-* [&lt;自戀工作室&gt;反叛的青春--個體化的掙扎](3-narcisissm-work/zi-gong-zuo-shi-fan-pan-de-qing-chun-hua-de-zha.md)
-* [別把孩子的時間填滿](3-narcisissm-work/zi-gong-zuo-shi-ba-hai-zi-de-tian.md)
+* [反叛的青春--個體化的掙扎](3-narcisissm-work/individualization.md)
+* [別把孩子的時間填滿](3-narcisissm-work/preserve-time-for-your-child.md)
 * [給孩子永遠的同伴--手足](3-narcisissm-work/forever-siblings.md)
 * [給孩子三年，他給你一輩子](3-narcisissm-work/first-3-years-of-life.md)
 
 ## 輯一、自戀檔案室
 
 * [充氣娃娃男--關於性癖與戀童](1-nacisissm-files/1-paraphilia.md)
+* [匱乏的象徵--宮崎駿動畫中的「 無臉男」](1-nacisissm-files/man-without-face.md)
 * [宅世代](1-nacisissm-files/1-house-generation.md)
 * [謀殺童年](1-nacisissm-files/1-murder-childhood.md)
 * [北捷隨機殺人事件的心理剖析](1-nacisissm-files/1-random-kill.md)
