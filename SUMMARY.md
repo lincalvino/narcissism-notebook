@@ -5,7 +5,7 @@
 
 ## 輯三、自戀工作室
 
-* [反叛的青春--個體化的掙扎](3-narcisissm-work/individualization.md)
+* [反叛的青春--「個人化」的掙扎](3-narcisissm-work/individualization.md)
 * [別把孩子的時間填滿](3-narcisissm-work/preserve-time-for-your-child.md)
 * [給孩子永遠的同伴--手足](3-narcisissm-work/forever-siblings.md)
 * [給孩子三年，他給你一輩子](3-narcisissm-work/first-3-years-of-life.md)
