@@ -12,6 +12,7 @@
 
 ## 輯一、自戀檔案室
 
+* [啃老繭居族的悲歌](1-nacisissm-files/ken-lao-ju-zu-de-bei-ge.md)
 * [「完美」的輓歌--北大弒母案](1-nacisissm-files/mother-killing.md)
 * [充氣娃娃男--關於性癖與戀童](1-nacisissm-files/1-paraphilia.md)
 * [匱乏的象徵--宮崎駿動畫中的「 無臉男」](1-nacisissm-files/man-without-face.md)
