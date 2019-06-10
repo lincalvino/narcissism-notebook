@@ -12,6 +12,7 @@
 
 ## 輯一、自戀檔案室
 
+* [心靈的黑洞--連續殺人狂](1-nacisissm-files/serial-killer.md)
 * [啃老繭居族的悲歌](1-nacisissm-files/not-in-education-employment-training.md)
 * [「完美」的輓歌--北大弒母案](1-nacisissm-files/mother-killing.md)
 * [充氣娃娃男--關於性癖與戀童](1-nacisissm-files/1-paraphilia.md)
